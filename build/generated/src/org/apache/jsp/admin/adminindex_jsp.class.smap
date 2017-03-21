@@ -1,0 +1,17 @@
+SMAP
+adminindex_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminindex.jsp
+admin/adminindex.jsp
++ 1 navbar.jsp
+admin/navbar.jsp
+*L
+5,11:49
+5#1,9:60
+13:68,2
+14,8:70
+21,20:78
+15#0,5:98
+*E
